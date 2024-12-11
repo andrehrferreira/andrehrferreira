@@ -1,16 +1,75 @@
-## Hi there 👋
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋</summary>
+  </ul>
+</div>
 
-<!--
-**andrehrferreira/andrehrferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">22 Years of Innovation in Tech</h2></summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+<!--Intro start-->
+- 🔭 I’m currently working at **Uzmi Games** and developing the **CMMV Framework**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 My focus is on **C++**, **C#**, and **TypeScript (Node.js)**, creating scalable backends for MMORPGs and web applications.
+
+- 🎮 I’m passionate about **game development** with experience in **Unreal Engine** and **Unity**.
+
+- ☁️ I specialize in **backend architecture** with 22 years of experience in the IT industry, delivering robust and scalable solutions.
+
+- 📝 I regularly work on advanced systems involving **cryptography**, **real-time systems**, and **distributed applications**.
+
+- 💬 Ask me about **C++**, **C#**, **JavaScript**, **TypeScript**, **Redis**, **ElasticSearch**, **RabbitMQ**, **MongoDB**, **SQL**, **Vue**, **Nuxt**, **NestJS**, and more.
+
+- 📫 Feel free to reach me at **andrehrf@gmail.com**
+<!--Intro end-->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">Languages & Frameworks</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,nestjs,vue,nuxt,html,css" />
+  </a>
+</p>
+<p align="center">Databases & Messaging</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq" />
+  </a>
+</p>
+<p align="center">Game Engines</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal" />
+  </a>
+</p>
+<p align="center">DevOps & Tools</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,github,nginx" />
+  </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+
+<a href="https://www.linkedin.com/in/andrehrf/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+  </ul>
+</div>
+

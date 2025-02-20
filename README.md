@@ -39,13 +39,13 @@
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,nestjs,vue,nuxt,html,css" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,nestjs,vue,nuxtjs,pinia,html,css,tailwind,firebase,flutter,vite,vitest" />
   </a>
 </p>
 <p align="center">Databases & Messaging</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq,kafka,supabase" />
   </a>
 </p>
 <p align="center">Game Engines</p>
@@ -57,7 +57,7 @@
 <p align="center">DevOps & Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,github,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,github,gitlab,nginx,cloudflare,grafana" />
   </a>
 </p>
 

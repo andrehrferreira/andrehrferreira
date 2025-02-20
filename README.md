@@ -39,13 +39,13 @@
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,nestjs,vue,nuxtjs,pinia,html,css,tailwind,firebase,flutter,vite,vitest" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,nestjs,vue,nuxtjs,pinia,html,css,tailwind,firebase,flutter,vite,vitest,solidity,regex,pnpm,md" />
   </a>
 </p>
 <p align="center">Databases & Messaging</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq,kafka,supabase" />
+    <img src="https://skillicons.dev/icons?i=redis,elasticsearch,mongodb,mysql,postgres,rabbitmq,kafka,supabase,sqlite" />
   </a>
 </p>
 <p align="center">Game Engines</p>

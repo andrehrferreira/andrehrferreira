@@ -8,7 +8,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">22 Years of Innovation in Tech</h2></summary>
+    <summary><h2 style="display: inline-block">24 Years of Innovation in Tech</h2></summary>
   </ul>
 </div>
 
@@ -39,7 +39,7 @@
 <p align="center">Languages & Frameworks</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,nestjs,vue,nuxtjs,pinia,html,css,tailwind,firebase,flutter,vite,vitest,solidity,regex,pnpm,md" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,rust,nestjs,vue,nuxtjs,pinia,html,css,tailwind,firebase,flutter,vite,vitest,solidity,regex,pnpm,md" />
   </a>
 </p>
 <p align="center">Databases & Messaging</p>

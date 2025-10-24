@@ -13,7 +13,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working at **Uzmi Games** and developing the **CMMV Framework**
+- 🔭 I’m currently working at **Uzmi Games**, **Hive-Hub** and developing the **CMMV Framework**
 
 - 🌱 My focus is on **C++**, **C#**, and **TypeScript (Node.js)**, creating scalable backends for MMORPGs and web applications.
 

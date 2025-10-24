@@ -19,7 +19,7 @@
 
 - 🎮 I’m passionate about **game development** with experience in **Unreal Engine** and **Unity**.
 
-- ☁️ I specialize in **backend architecture** with 22 years of experience in the IT industry, delivering robust and scalable solutions.
+- ☁️ I specialize in **backend architecture** with 24 years of experience in the IT industry, delivering robust and scalable solutions.
 
 - 📝 I regularly work on advanced systems involving **cryptography**, **real-time systems**, and **distributed applications**.
 
